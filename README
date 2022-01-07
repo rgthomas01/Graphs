@@ -1,3 +1,5 @@
+Pyhton implementation of Undirected and Directed Graphs
+
 Undirected Graph (Adjacency List)
 Implements the following methods
   add_vertex(), add_edge()
